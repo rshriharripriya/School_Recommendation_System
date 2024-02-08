@@ -1,0 +1,43 @@
+# possible attributes id need
+
+School Name
+City
+Zip Code
+2022 Student Enrollments
+National Rank
+AZ Rank
+Student-Teacher Ratio
+Racial%-White
+Racial%-Black
+Racial%-American indian
+Racial%-Hispanic
+Racial%-Asian
+Racial%-two or more
+Lunch%-Free
+Lunch%-Reduced
+Lunch%-Paid
+
+########################################################################
+AP Classes?
+
+Dual Enrollment?
+
+Offers Electives?
+
+Offers Sports?
+
+Sports Rank
+
+Teaching/Educational Method
+
+Mental Health Services?
+
+Math Scoring
+
+English Scoring
+
+Suicide Data
+
+Crime-related Data
+
+
